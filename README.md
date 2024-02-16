@@ -2,5 +2,5 @@
 
 ## How to use
 
-- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevkafixedss16/iosevkafixedss16-unhinted.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Iosevkafixedss16 Web'` or `font-family: 'Iosevkafixedss16 Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevkafixedss16/IosevkaFixedSS16-Unhinted.css" rel="stylesheet" />` to your `<head>`.
+- Check out the [CSS file](./IosevkaFixedSS16-Unhinted.css) for browsing the name of font family.
