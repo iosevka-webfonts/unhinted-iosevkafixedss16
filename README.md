@@ -1,4 +1,4 @@
-# Unhinted Iosevkafixedss16 WebFont 29.2.0
+# Unhinted Iosevkafixedss16 WebFont 30.1.2
 
 ## How to use
 
